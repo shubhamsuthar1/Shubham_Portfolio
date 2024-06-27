@@ -2,7 +2,7 @@
   {
     "name": "E-book Website",
     "desc": "Front End with database E-book website using HTML,Css,JavaScript,PHP and MySql with responsive and some book available for download.",
-    "image": "/assets/images/projects/ebook.png",
+    "image": "ebook",
     "category": "HTML,CSS,JAVASCRIPT,PHP",
     "links": {
       "view": "https://shubhamsuthar1.github.io/E-Book/",
