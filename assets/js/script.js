@@ -48,7 +48,7 @@ $(document).ready(function () {
                 alert("Form Submitted Successfully");
             }, function (error) {
                 console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
+                alert("Mail Me | shubhamsuthar9999@gmail.com"); 
             });
         event.preventDefault();
     });
@@ -60,7 +60,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Shubham Suthar";
-            $("#favicon").attr("href", "assets/images/Shubham2-modified.png");
+            $("#favicon").attr("href", "assets/images/shubham-rounded.jpeg");
         }
         // else {
         //     document.title = "Come Back To Portfolio";
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Frontend Development"],
+    strings: ["Frontend Developer"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,

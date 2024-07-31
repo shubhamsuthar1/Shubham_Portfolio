@@ -21,7 +21,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Projects | Portfolio Shubham ";
-            $("#favicon").attr("href", "/assets/images/Shubham2-modified.png");
+            $("#favicon").attr("href", "/assets/images/shubham-rounded.jpeg");
         }
         // else {
         //     document.title = "Come Back To Portfolio";
